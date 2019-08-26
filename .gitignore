@@ -1,0 +1,12 @@
+*.exe
+*.pdb
+*.obj
+*.rar
+*.zip
+*.tar
+*.bz2
+*.log
+Release/
+Debug/
+*.tlog
+
